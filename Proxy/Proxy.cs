@@ -2,7 +2,7 @@ namespace Proxy
 {
     class Proxy : Subject
     {
-        RealSubject realSubject;
+        private RealSubject realSubject;
         public override void Request()
         {
             if(realSubject == null)
