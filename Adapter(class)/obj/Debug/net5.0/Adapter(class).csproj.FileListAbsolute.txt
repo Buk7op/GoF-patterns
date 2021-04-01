@@ -1,0 +1,16 @@
+C:\Users\Виктор\Projects\Adapter(class)\bin\Debug\net5.0\Adapter(class).exe
+C:\Users\Виктор\Projects\Adapter(class)\bin\Debug\net5.0\Adapter(class).deps.json
+C:\Users\Виктор\Projects\Adapter(class)\bin\Debug\net5.0\Adapter(class).runtimeconfig.json
+C:\Users\Виктор\Projects\Adapter(class)\bin\Debug\net5.0\Adapter(class).runtimeconfig.dev.json
+C:\Users\Виктор\Projects\Adapter(class)\bin\Debug\net5.0\Adapter(class).dll
+C:\Users\Виктор\Projects\Adapter(class)\bin\Debug\net5.0\ref\Adapter(class).dll
+C:\Users\Виктор\Projects\Adapter(class)\bin\Debug\net5.0\Adapter(class).pdb
+C:\Users\Виктор\Projects\Adapter(class)\obj\Debug\net5.0\Adapter(class).csprojAssemblyReference.cache
+C:\Users\Виктор\Projects\Adapter(class)\obj\Debug\net5.0\Adapter(class).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктор\Projects\Adapter(class)\obj\Debug\net5.0\Adapter(class).AssemblyInfoInputs.cache
+C:\Users\Виктор\Projects\Adapter(class)\obj\Debug\net5.0\Adapter(class).AssemblyInfo.cs
+C:\Users\Виктор\Projects\Adapter(class)\obj\Debug\net5.0\Adapter(class).csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Projects\Adapter(class)\obj\Debug\net5.0\Adapter(class).dll
+C:\Users\Виктор\Projects\Adapter(class)\obj\Debug\net5.0\ref\Adapter(class).dll
+C:\Users\Виктор\Projects\Adapter(class)\obj\Debug\net5.0\Adapter(class).pdb
+C:\Users\Виктор\Projects\Adapter(class)\obj\Debug\net5.0\Adapter(class).genruntimeconfig.cache

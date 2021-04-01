@@ -1,0 +1,16 @@
+C:\Users\Виктор\Projects\Builder\bin\Debug\net5.0\Builder.exe
+C:\Users\Виктор\Projects\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\Users\Виктор\Projects\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\Users\Виктор\Projects\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\Users\Виктор\Projects\Builder\bin\Debug\net5.0\Builder.dll
+C:\Users\Виктор\Projects\Builder\bin\Debug\net5.0\ref\Builder.dll
+C:\Users\Виктор\Projects\Builder\bin\Debug\net5.0\Builder.pdb
+C:\Users\Виктор\Projects\Builder\obj\Debug\net5.0\Builder.csprojAssemblyReference.cache
+C:\Users\Виктор\Projects\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктор\Projects\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\Users\Виктор\Projects\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\Users\Виктор\Projects\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Projects\Builder\obj\Debug\net5.0\Builder.dll
+C:\Users\Виктор\Projects\Builder\obj\Debug\net5.0\ref\Builder.dll
+C:\Users\Виктор\Projects\Builder\obj\Debug\net5.0\Builder.pdb
+C:\Users\Виктор\Projects\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
