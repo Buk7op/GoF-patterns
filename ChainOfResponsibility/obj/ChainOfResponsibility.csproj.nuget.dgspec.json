@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Виктор\\Projects\\GoF patterns\\Decorator\\Decorator.csproj": {}
+    "C:\\Users\\Виктор\\Projects\\GoF patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Виктор\\Projects\\GoF patterns\\Decorator\\Decorator.csproj": {
+    "C:\\Users\\Виктор\\Projects\\GoF patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Виктор\\Projects\\GoF patterns\\Decorator\\Decorator.csproj",
-        "projectName": "Decorator",
-        "projectPath": "C:\\Users\\Виктор\\Projects\\GoF patterns\\Decorator\\Decorator.csproj",
+        "projectUniqueName": "C:\\Users\\Виктор\\Projects\\GoF patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+        "projectName": "ChainOfResponsibility",
+        "projectPath": "C:\\Users\\Виктор\\Projects\\GoF patterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
         "packagesPath": "C:\\Users\\Виктор\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Виктор\\Projects\\GoF patterns\\Decorator\\obj\\",
+        "outputPath": "C:\\Users\\Виктор\\Projects\\GoF patterns\\ChainOfResponsibility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Виктор\\AppData\\Roaming\\NuGet\\NuGet.Config",

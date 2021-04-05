@@ -14,3 +14,19 @@ C:\Users\Виктор\Projects\Decorator\obj\Debug\net5.0\Decorator.dll
 C:\Users\Виктор\Projects\Decorator\obj\Debug\net5.0\ref\Decorator.dll
 C:\Users\Виктор\Projects\Decorator\obj\Debug\net5.0\Decorator.pdb
 C:\Users\Виктор\Projects\Decorator\obj\Debug\net5.0\Decorator.genruntimeconfig.cache
+C:\Users\Виктор\Projects\GoF patterns\Decorator\bin\Debug\net5.0\Decorator.exe
+C:\Users\Виктор\Projects\GoF patterns\Decorator\bin\Debug\net5.0\Decorator.deps.json
+C:\Users\Виктор\Projects\GoF patterns\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.json
+C:\Users\Виктор\Projects\GoF patterns\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.dev.json
+C:\Users\Виктор\Projects\GoF patterns\Decorator\bin\Debug\net5.0\Decorator.dll
+C:\Users\Виктор\Projects\GoF patterns\Decorator\bin\Debug\net5.0\ref\Decorator.dll
+C:\Users\Виктор\Projects\GoF patterns\Decorator\bin\Debug\net5.0\Decorator.pdb
+C:\Users\Виктор\Projects\GoF patterns\Decorator\obj\Debug\net5.0\Decorator.csprojAssemblyReference.cache
+C:\Users\Виктор\Projects\GoF patterns\Decorator\obj\Debug\net5.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктор\Projects\GoF patterns\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\Виктор\Projects\GoF patterns\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfo.cs
+C:\Users\Виктор\Projects\GoF patterns\Decorator\obj\Debug\net5.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Projects\GoF patterns\Decorator\obj\Debug\net5.0\Decorator.dll
+C:\Users\Виктор\Projects\GoF patterns\Decorator\obj\Debug\net5.0\ref\Decorator.dll
+C:\Users\Виктор\Projects\GoF patterns\Decorator\obj\Debug\net5.0\Decorator.pdb
+C:\Users\Виктор\Projects\GoF patterns\Decorator\obj\Debug\net5.0\Decorator.genruntimeconfig.cache
