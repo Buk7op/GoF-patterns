@@ -1,0 +1,16 @@
+C:\Users\Viktor\Projects\GoF patterns\Iterator\bin\Debug\net5.0\Iterator.exe
+C:\Users\Viktor\Projects\GoF patterns\Iterator\bin\Debug\net5.0\Iterator.deps.json
+C:\Users\Viktor\Projects\GoF patterns\Iterator\bin\Debug\net5.0\Iterator.runtimeconfig.json
+C:\Users\Viktor\Projects\GoF patterns\Iterator\bin\Debug\net5.0\Iterator.runtimeconfig.dev.json
+C:\Users\Viktor\Projects\GoF patterns\Iterator\bin\Debug\net5.0\Iterator.dll
+C:\Users\Viktor\Projects\GoF patterns\Iterator\bin\Debug\net5.0\ref\Iterator.dll
+C:\Users\Viktor\Projects\GoF patterns\Iterator\bin\Debug\net5.0\Iterator.pdb
+C:\Users\Viktor\Projects\GoF patterns\Iterator\obj\Debug\net5.0\Iterator.csprojAssemblyReference.cache
+C:\Users\Viktor\Projects\GoF patterns\Iterator\obj\Debug\net5.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Projects\GoF patterns\Iterator\obj\Debug\net5.0\Iterator.AssemblyInfoInputs.cache
+C:\Users\Viktor\Projects\GoF patterns\Iterator\obj\Debug\net5.0\Iterator.AssemblyInfo.cs
+C:\Users\Viktor\Projects\GoF patterns\Iterator\obj\Debug\net5.0\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Projects\GoF patterns\Iterator\obj\Debug\net5.0\Iterator.dll
+C:\Users\Viktor\Projects\GoF patterns\Iterator\obj\Debug\net5.0\ref\Iterator.dll
+C:\Users\Viktor\Projects\GoF patterns\Iterator\obj\Debug\net5.0\Iterator.pdb
+C:\Users\Viktor\Projects\GoF patterns\Iterator\obj\Debug\net5.0\Iterator.genruntimeconfig.cache
