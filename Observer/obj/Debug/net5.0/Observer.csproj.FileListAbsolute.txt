@@ -1,0 +1,16 @@
+C:\Users\Viktor\Projects\GoF patterns\Observer\bin\Debug\net5.0\Observer.exe
+C:\Users\Viktor\Projects\GoF patterns\Observer\bin\Debug\net5.0\Observer.deps.json
+C:\Users\Viktor\Projects\GoF patterns\Observer\bin\Debug\net5.0\Observer.runtimeconfig.json
+C:\Users\Viktor\Projects\GoF patterns\Observer\bin\Debug\net5.0\Observer.runtimeconfig.dev.json
+C:\Users\Viktor\Projects\GoF patterns\Observer\bin\Debug\net5.0\Observer.dll
+C:\Users\Viktor\Projects\GoF patterns\Observer\bin\Debug\net5.0\ref\Observer.dll
+C:\Users\Viktor\Projects\GoF patterns\Observer\bin\Debug\net5.0\Observer.pdb
+C:\Users\Viktor\Projects\GoF patterns\Observer\obj\Debug\net5.0\Observer.csprojAssemblyReference.cache
+C:\Users\Viktor\Projects\GoF patterns\Observer\obj\Debug\net5.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Projects\GoF patterns\Observer\obj\Debug\net5.0\Observer.AssemblyInfoInputs.cache
+C:\Users\Viktor\Projects\GoF patterns\Observer\obj\Debug\net5.0\Observer.AssemblyInfo.cs
+C:\Users\Viktor\Projects\GoF patterns\Observer\obj\Debug\net5.0\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Projects\GoF patterns\Observer\obj\Debug\net5.0\Observer.dll
+C:\Users\Viktor\Projects\GoF patterns\Observer\obj\Debug\net5.0\ref\Observer.dll
+C:\Users\Viktor\Projects\GoF patterns\Observer\obj\Debug\net5.0\Observer.pdb
+C:\Users\Viktor\Projects\GoF patterns\Observer\obj\Debug\net5.0\Observer.genruntimeconfig.cache
