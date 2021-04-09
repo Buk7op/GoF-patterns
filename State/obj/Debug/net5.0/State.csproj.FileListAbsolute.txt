@@ -1,0 +1,16 @@
+C:\Users\Viktor\Projects\GoF patterns\State\bin\Debug\net5.0\State.exe
+C:\Users\Viktor\Projects\GoF patterns\State\bin\Debug\net5.0\State.deps.json
+C:\Users\Viktor\Projects\GoF patterns\State\bin\Debug\net5.0\State.runtimeconfig.json
+C:\Users\Viktor\Projects\GoF patterns\State\bin\Debug\net5.0\State.runtimeconfig.dev.json
+C:\Users\Viktor\Projects\GoF patterns\State\bin\Debug\net5.0\State.dll
+C:\Users\Viktor\Projects\GoF patterns\State\bin\Debug\net5.0\ref\State.dll
+C:\Users\Viktor\Projects\GoF patterns\State\bin\Debug\net5.0\State.pdb
+C:\Users\Viktor\Projects\GoF patterns\State\obj\Debug\net5.0\State.csprojAssemblyReference.cache
+C:\Users\Viktor\Projects\GoF patterns\State\obj\Debug\net5.0\State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Projects\GoF patterns\State\obj\Debug\net5.0\State.AssemblyInfoInputs.cache
+C:\Users\Viktor\Projects\GoF patterns\State\obj\Debug\net5.0\State.AssemblyInfo.cs
+C:\Users\Viktor\Projects\GoF patterns\State\obj\Debug\net5.0\State.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Projects\GoF patterns\State\obj\Debug\net5.0\State.dll
+C:\Users\Viktor\Projects\GoF patterns\State\obj\Debug\net5.0\ref\State.dll
+C:\Users\Viktor\Projects\GoF patterns\State\obj\Debug\net5.0\State.pdb
+C:\Users\Viktor\Projects\GoF patterns\State\obj\Debug\net5.0\State.genruntimeconfig.cache
