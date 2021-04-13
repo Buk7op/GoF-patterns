@@ -1,0 +1,16 @@
+C:\Users\Viktor\Projects\GoF patterns\Visitor\bin\Debug\net5.0\Visitor.exe
+C:\Users\Viktor\Projects\GoF patterns\Visitor\bin\Debug\net5.0\Visitor.deps.json
+C:\Users\Viktor\Projects\GoF patterns\Visitor\bin\Debug\net5.0\Visitor.runtimeconfig.json
+C:\Users\Viktor\Projects\GoF patterns\Visitor\bin\Debug\net5.0\Visitor.runtimeconfig.dev.json
+C:\Users\Viktor\Projects\GoF patterns\Visitor\bin\Debug\net5.0\Visitor.dll
+C:\Users\Viktor\Projects\GoF patterns\Visitor\bin\Debug\net5.0\ref\Visitor.dll
+C:\Users\Viktor\Projects\GoF patterns\Visitor\bin\Debug\net5.0\Visitor.pdb
+C:\Users\Viktor\Projects\GoF patterns\Visitor\obj\Debug\net5.0\Visitor.csprojAssemblyReference.cache
+C:\Users\Viktor\Projects\GoF patterns\Visitor\obj\Debug\net5.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Projects\GoF patterns\Visitor\obj\Debug\net5.0\Visitor.AssemblyInfoInputs.cache
+C:\Users\Viktor\Projects\GoF patterns\Visitor\obj\Debug\net5.0\Visitor.AssemblyInfo.cs
+C:\Users\Viktor\Projects\GoF patterns\Visitor\obj\Debug\net5.0\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Projects\GoF patterns\Visitor\obj\Debug\net5.0\Visitor.dll
+C:\Users\Viktor\Projects\GoF patterns\Visitor\obj\Debug\net5.0\ref\Visitor.dll
+C:\Users\Viktor\Projects\GoF patterns\Visitor\obj\Debug\net5.0\Visitor.pdb
+C:\Users\Viktor\Projects\GoF patterns\Visitor\obj\Debug\net5.0\Visitor.genruntimeconfig.cache
