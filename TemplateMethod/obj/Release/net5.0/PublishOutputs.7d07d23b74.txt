@@ -1,5 +1,0 @@
-C:\Users\Viktor\Projects\GoF patterns\TemplateMethod\bin\Release\net5.0\publish\TemplateMethod.exe
-C:\Users\Viktor\Projects\GoF patterns\TemplateMethod\bin\Release\net5.0\publish\TemplateMethod.dll
-C:\Users\Viktor\Projects\GoF patterns\TemplateMethod\bin\Release\net5.0\publish\TemplateMethod.deps.json
-C:\Users\Viktor\Projects\GoF patterns\TemplateMethod\bin\Release\net5.0\publish\TemplateMethod.runtimeconfig.json
-C:\Users\Viktor\Projects\GoF patterns\TemplateMethod\bin\Release\net5.0\publish\TemplateMethod.pdb
